@@ -1,0 +1,412 @@
+districtId,district_name,Average_Age,Average_Household_Size
+1001,"        Flensburg, Stadt",42.7,1.8
+1002,"        Kiel, Landeshauptstadt",41.3,1.9
+1003,"        Lübeck, Hansestadt",44.2,1.9
+1004,"        Neumünster, Stadt",43.5,2
+1051,        Kreis Dithmarschen,44.1,2.2
+1053,        Kreis Herzogtum Lauenburg,43.6,2.3
+1054,        Kreis Nordfriesland,43.8,2.2
+1055,        Kreis Ostholstein,46.1,2.1
+1056,        Kreis Pinneberg,43.6,2.2
+1057,        Kreis Plön,45,2.3
+1058,        Kreis Rendsburg-Eckernförde,43.5,2.3
+1059,        Kreis Schleswig-Flensburg,43.5,2.3
+1060,        Kreis Segeberg,43,2.3
+1061,        Kreis Steinburg,43.6,2.2
+1062,        Kreis Stormarn,43.9,2.3
+2000,"        Hamburg, Freie und Hansestadt",41.9,1.9
+3101,"        Braunschweig, Stadt",43,1.9
+3102,"        Salzgitter, Stadt",44.6,2.1
+3103,"        Wolfsburg, Stadt",44.2,2.1
+3151,        Landkreis Gifhorn,41.9,2.5
+3153,        Landkreis Goslar,46.6,2
+3154,        Landkreis Helmstedt,45.1,2.2
+3155,        Landkreis Northeim,45.4,2.3
+3157,        Landkreis Peine,43.3,2.3
+3158,        Landkreis Wolfenbüttel,44.4,2.2
+3159,        Landkreis Göttingen,44.75,2.1
+3241,        Landkreis Region Hannover,43.2,2
+3251,        Landkreis Diepholz,43.6,2.4
+3252,        Landkreis Hameln-Pyrmont,45.4,2.1
+3254,        Landkreis Hildesheim,44,2.2
+3255,        Landkreis Holzminden,45.5,2.3
+3256,        Landkreis Nienburg (Weser),43.3,2.4
+3257,        Landkreis Schaumburg,44.8,2.2
+3351,        Landkreis Celle,43.7,2.3
+3352,        Landkreis Cuxhaven,44.7,2.3
+3353,        Landkreis Harburg,43.5,2.3
+3354,        Landkreis Lüchow-Dannenberg,46.2,2.3
+3355,        Landkreis Lüneburg,41.8,2.2
+3356,        Landkreis Osterholz,43.8,2.3
+3357,        Landkreis Rotenburg (Wümme),42.1,2.4
+3358,        Landkreis Soltau-Fallingbostel,43.4,2.3
+3359,        Landkreis Stade,42.4,2.3
+3360,        Landkreis Uelzen,45.2,2.2
+3361,        Landkreis Verden,43,2.3
+3401,"        Delmenhorst, Stadt",43.6,2.1
+3402,"        Emden, Stadt",42.5,2.1
+3403,"        Oldenburg (Oldenburg), Stadt",41.8,2
+3404,"        Osnabrück, Stadt",42.3,2
+3405,"        Wilhelmshaven, Stadt",45.4,1.9
+3451,        Landkreis Ammerland,43,2.3
+3452,        Landkreis Aurich,43,2.3
+3453,        Landkreis Cloppenburg,39.1,2.8
+3454,        Landkreis Emsland,40.9,2.6
+3455,        Landkreis Friesland,44.6,2.2
+3456,        Landkreis Grafschaft Bentheim,41.8,2.5
+3457,        Landkreis Leer,42.2,2.4
+3458,        Landkreis Oldenburg,42.8,2.4
+3459,        Landkreis Osnabrück,41.9,2.5
+3460,        Landkreis Vechta,39.1,2.7
+3461,        Landkreis Wesermarsch,43.8,2.2
+3462,        Landkreis Wittmund,43.6,2.3
+4011,"        Bremen, Stadt",43.2,2
+4012,"        Bremerhaven, Stadt",43.8,1.9
+5111,"        Düsseldorf, Stadt",42.9,1.9
+5112,"        Duisburg, Stadt",43.2,2.1
+5113,"        Essen, Stadt",44.1,1.9
+5114,"        Krefeld, Stadt",43.7,2
+5116,"        Mönchengladbach, Stadt",43.3,2.1
+5117,"        Mülheim an der Ruhr, Stadt",45.3,2
+5119,"        Oberhausen, Stadt",43.9,2
+5120,"        Remscheid, Stadt",43.9,2.1
+5122,"        Solingen, Stadt",43.5,2.1
+5124,"        Wuppertal, Stadt",43.4,2
+5154,        Kreis Kleve,42.5,2.3
+5158,        Kreis Mettmann,44.6,2.1
+5162,        Kreis Rhein-Kreis Neuss,43.5,2.2
+5166,        Kreis Viersen,43.3,2.3
+5170,        Kreis Wesel,44,2.2
+5314,"        Bonn, Stadt",41.2,2
+5315,"        Köln, Stadt",41.3,1.9
+5316,"        Leverkusen, Stadt",43.7,2.1
+5334,        Kreis Städteregion Aachen,42.2,2
+5358,        Kreis Düren,42.9,2.3
+5362,        Kreis Rhein-Erft-Kreis,43,2.2
+5366,        Kreis Euskirchen,43.1,2.3
+5370,        Kreis Heinsberg,42.6,2.4
+5374,        Kreis Oberbergischer Kreis,42.6,2.3
+5378,        Kreis Rheinisch-Bergischer Kreis,44,2.2
+5382,        Kreis Rhein-Sieg-Kreis,42.6,2.3
+5512,"        Bottrop, Stadt",43.8,2.1
+5513,"        Gelsenkirchen, Stadt",43.3,2
+5515,"        Münster, Stadt",40.5,2
+5554,        Kreis Borken,40.7,2.5
+5558,        Kreis Coesfeld,42,2.4
+5562,        Kreis Recklinghausen,44.1,2.1
+5566,        Kreis Steinfurt,41.6,2.5
+5570,        Kreis Warendorf,42.3,2.4
+5711,"        Bielefeld, Stadt",42.1,2.1
+5754,        Kreis Gütersloh,41.6,2.4
+5758,        Kreis Herford,43.4,2.3
+5762,        Kreis Höxter,43.1,2.4
+5766,        Kreis Lippe,43.2,2.3
+5770,        Kreis Minden-Lübbecke,43.2,2.4
+5774,        Kreis Paderborn,40.5,2.3
+5911,"        Bochum, Stadt",44.2,1.9
+5913,"        Dortmund, Stadt",43.1,2
+5914,"        Hagen, Stadt",44.2,2
+5915,"        Hamm, Stadt",42.6,2.2
+5916,"        Herne, Stadt",44.2,2
+5954,        Kreis Ennepe-Ruhr-Kreis,44.9,2.1
+5958,        Kreis Hochsauerlandkreis,43.2,2.3
+5962,        Kreis Märkischer Kreis,43.1,2.2
+5966,        Kreis Olpe,42,2.4
+5970,        Kreis Siegen-Wittgenstein,43.1,2.3
+5974,        Kreis Soest,42.8,2.3
+5978,        Kreis Unna,43.9,2.2
+6411,"        Darmstadt, Wissenschaftsstadt",41.2,2
+6412,"        Frankfurt am Main, Stadt",40.8,2
+6413,"        Offenbach am Main, Stadt",41.1,2.1
+6414,"        Wiesbaden, Landeshauptstadt",42.3,2.1
+6431,        Landkreis Bergstraße,43.8,2.3
+6432,        Landkreis Darmstadt-Dieburg,42.7,2.3
+6433,        Landkreis Groß-Gerau,42.2,2.3
+6434,        Landkreis Hochtaunuskreis,43.7,2.2
+6435,        Landkreis Main-Kinzig-Kreis,43.2,2.3
+6436,        Landkreis Main-Taunus-Kreis,43.1,2.2
+6437,        Landkreis Odenwaldkreis,43.9,2.4
+6438,        Landkreis Offenbach,43.1,2.2
+6439,        Landkreis Rheingau-Taunus-Kreis,43.9,2.3
+6440,        Landkreis Wetteraukreis,43,2.3
+6531,        Landkreis Gießen,42,2.2
+6532,        Landkreis Lahn-Dill-Kreis,43.2,2.3
+6533,        Landkreis Limburg-Weilburg,42.9,2.4
+6534,        Landkreis Marburg-Biedenkopf,41.7,2.3
+6535,        Landkreis Vogelsbergkreis,44.9,2.4
+6611,"        Kassel, documenta-Stadt",42.4,1.9
+6631,        Landkreis Fulda,42.4,2.3
+6632,        Landkreis Hersfeld-Rotenburg,44.8,2.4
+6633,        Landkreis Kassel,45,2.3
+6634,        Landkreis Schwalm-Eder-Kreis,44.2,2.4
+6635,        Landkreis Waldeck-Frankenberg,44,2.3
+6636,        Landkreis Werra-Meißner-Kreis,45.8,2.3
+7111,"        Koblenz, Stadt",43.7,2
+7131,        Landkreis Ahrweiler,44.9,2.2
+7132,        Landkreis Altenkirchen (Westerwald),43.3,2.4
+7133,        Landkreis Bad Kreuznach,44,2.3
+7134,        Landkreis Birkenfeld,44.9,2.3
+7135,        Landkreis Cochem-Zell,44.6,2.4
+7137,        Landkreis Mayen-Koblenz,43.5,2.3
+7138,        Landkreis Neuwied,43.6,2.3
+7140,        Landkreis Rhein-Hunsrück-Kreis,43.7,2.4
+7141,        Landkreis Rhein-Lahn-Kreis,44.4,2.3
+7143,        Landkreis Westerwaldkreis,42.7,2.4
+7211,"        Trier, Stadt",41,1.9
+7231,        Landkreis Bernkastel-Wittlich,43.9,2.4
+7232,        Landkreis Eifelkreis Bitburg-Prüm,42.9,2.4
+7233,        Landkreis Vulkaneifel,44.3,2.4
+7235,        Landkreis Trier-Saarburg,42.8,2.4
+7311,"        Frankenthal (Pfalz), Stadt",44,2.2
+7312,"        Kaiserslautern, Stadt",42.5,1.9
+7313,"        Landau in der Pfalz, Stadt",42.3,2.1
+7314,"        Ludwigshafen am Rhein, Stadt",42.2,2.1
+7315,"        Mainz, Stadt",40.9,2
+7316,"        Neustadt an der Weinstraße, Stadt",44.9,2.1
+7317,"        Pirmasens, Stadt",46,2
+7318,"        Speyer, Stadt",43.6,2.1
+7319,"        Worms, Stadt",42.7,2.1
+7320,"        Zweibrücken, Stadt",44.3,2.1
+7331,        Landkreis Alzey-Worms,42.4,2.5
+7332,        Landkreis Bad Dürkheim,44.9,2.3
+7333,        Landkreis Donnersbergkreis,43.1,2.4
+7334,        Landkreis Germersheim,42,2.4
+7335,        Landkreis Kaiserslautern,43.3,2.4
+7336,        Landkreis Kusel,44.7,2.4
+7337,        Landkreis Südliche Weinstraße,44,2.4
+7338,        Landkreis Rhein-Pfalz-Kreis,44.2,2.4
+7339,        Landkreis Mainz-Bingen,42.6,2.3
+7340,        Landkreis Südwestpfalz,45.2,2.4
+8111,"        Stuttgart, Landeshauptstadt",41.4,2
+8115,        Landkreis Böblingen,42,2.3
+8116,        Landkreis Esslingen,42.4,2.2
+8117,        Landkreis Göppingen,43.1,2.3
+8118,        Landkreis Ludwigsburg,42.1,2.2
+8119,        Landkreis Rems-Murr-Kreis,42.7,2.3
+8121,"        Heilbronn, Stadt",42.4,2.2
+8125,"        Landkreis Heilbronn, Landkreis",41.7,2.4
+8126,        Landkreis Hohenlohekreis,41.6,2.5
+8127,        Landkreis Schwäbisch Hall,41.5,2.4
+8128,        Landkreis Main-Tauber-Kreis,43.5,2.4
+8135,        Landkreis Heidenheim,43.4,2.3
+8136,        Landkreis Ostalbkreis,42,2.4
+8211,"        Baden-Baden, Stadt",46.9,2
+8212,"        Karlsruhe, Stadt",41.8,2
+8215,"        Landkreis Karlsruhe, Landkreis",42.9,2.3
+8216,        Landkreis Rastatt,43.3,2.3
+8221,"        Heidelberg, Stadt",39.9,2
+8222,"        Mannheim, Universitätsstadt",42,2
+8225,        Landkreis Neckar-Odenwald-Kreis,42.9,2.4
+8226,        Landkreis Rhein-Neckar-Kreis,43,2.2
+8231,"        Pforzheim, Stadt",42.9,2.1
+8235,        Landkreis Calw,42.5,2.4
+8236,        Landkreis Enzkreis,42.7,2.4
+8237,        Landkreis Freudenstadt,42.2,2.4
+8311,"        Freiburg im Breisgau, Stadt",39.9,2
+8315,        Landkreis Breisgau-Hochschwarzwald,42.7,2.3
+8316,        Landkreis Emmendingen,42.4,2.4
+8317,        Landkreis Ortenaukreis,42.5,2.3
+8325,        Landkreis Rottweil,42.5,2.4
+8326,        Landkreis Schwarzwald-Baar-Kreis,43.4,2.2
+8327,        Landkreis Tuttlingen,41.8,2.4
+8335,        Landkreis Konstanz,42.6,2.1
+8336,        Landkreis Lörrach,42.4,2.2
+8337,        Landkreis Waldshut,42.5,2.3
+8415,        Landkreis Reutlingen,42.4,2.3
+8416,        Landkreis Tübingen,39.9,2.4
+8417,        Landkreis Zollernalbkreis,43.3,2.3
+8421,"        Ulm, Universitätsstadt",41.3,2.1
+8425,        Landkreis Alb-Donau-Kreis,41.3,2.5
+8426,        Landkreis Biberach,41,2.5
+8435,        Landkreis Bodenseekreis,43.1,2.2
+8436,        Landkreis Ravensburg,41.5,2.4
+8437,        Landkreis Sigmaringen,41.8,2.4
+9161,        Ingolstadt,41.7,2.1
+9162,"        München, Landeshauptstadt",41.5,1.9
+9163,        Rosenheim,42.2,2
+9171,        Landkreis Altötting,43.3,2.3
+9172,        Landkreis Berchtesgadener Land,44.1,2.2
+9173,        Landkreis Bad Tölz-Wolfratshausen,42.9,2.3
+9174,        Landkreis Dachau,41.3,2.4
+9175,        Landkreis Ebersberg,41.5,2.4
+9176,        Landkreis Eichstätt,40.6,2.6
+9177,        Landkreis Erding,40.3,2.5
+9178,        Landkreis Freising,39.8,2.3
+9179,        Landkreis Fürstenfeldbruck,42.9,2.2
+9180,        Landkreis Garmisch-Partenkirchen,45,2.1
+9181,        Landkreis Landsberg am Lech,41.5,2.4
+9182,        Landkreis Miesbach,43.7,2.2
+9183,        Landkreis Mühldorf a.Inn,42.5,2.5
+9184,"        Landkreis München, Landkreis",42.4,2.2
+9185,        Landkreis Neuburg-Schrobenhausen,41.5,2.4
+9186,        Landkreis Pfaffenhofen a.d.Ilm,41.3,2.5
+9187,"        Landkreis Rosenheim, Landkreis",42.4,2.4
+9188,        Landkreis Starnberg,43.7,2.3
+9189,        Landkreis Traunstein,43.6,2.3
+9190,        Landkreis Weilheim-Schongau,42.6,2.3
+9261,        Landshut,43.6,2
+9262,        Passau,43.6,1.9
+9263,        Straubing,44.3,2
+9271,        Landkreis Deggendorf,42.5,2.4
+9272,        Landkreis Freyung-Grafenau,43.1,2.5
+9273,        Landkreis Kelheim,41.4,2.5
+9274,"        Landkreis Landshut, Landkreis",41.4,2.6
+9275,"        Landkreis Passau, Landkreis",43.1,2.4
+9276,        Landkreis Regen,43.5,2.4
+9277,        Landkreis Rottal-Inn,43,2.5
+9278,        Landkreis Straubing-Bogen,41.8,2.6
+9279,        Landkreis Dingolfing-Landau,42.1,2.5
+9361,        Amberg,44.1,2
+9362,        Regensburg,41.3,1.8
+9363,        Weiden i.d.OPf.,44.1,2
+9371,        Landkreis Amberg-Sulzbach,42.8,2.4
+9372,        Landkreis Cham,42.8,2.5
+9373,        Landkreis Neumarkt i.d.OPf.,41.6,2.6
+9374,        Landkreis Neustadt a.d.Waldnaab,42.4,2.5
+9375,"        Landkreis Regensburg, Landkreis",41.8,2.5
+9376,        Landkreis Schwandorf,42.8,2.4
+9377,        Landkreis Tirschenreuth,43.8,2.4
+9461,        Bamberg,42.7,1.9
+9462,        Bayreuth,43,1.9
+9463,        Coburg,44.6,2
+9464,        Hof,45.3,1.9
+9471,"        Landkreis Bamberg, Landkreis",41.5,2.5
+9472,"        Landkreis Bayreuth, Landkreis",43.4,2.4
+9473,"        Landkreis Coburg, Landkreis",44.1,2.4
+9474,        Landkreis Forchheim,42.3,2.4
+9475,"        Landkreis Hof, Landkreis",45.7,2.3
+9476,        Landkreis Kronach,44.9,2.3
+9477,        Landkreis Kulmbach,44.6,2.3
+9478,        Landkreis Lichtenfels,43.9,2.3
+9479,        Landkreis Wunsiedel i.Fichtelgebirge,46.4,2.2
+9561,        Ansbach,43.8,2.1
+9562,        Erlangen,41.2,1.9
+9563,        Fürth,42.3,2
+9564,        Nürnberg,43.1,1.9
+9565,        Schwabach,43.4,2.2
+9571,"        Landkreis Ansbach, Landkreis",42.1,2.5
+9572,        Landkreis Erlangen-Höchstadt,42.2,2.4
+9573,"        Landkreis Fürth, Landkreis",43.7,2.2
+9574,        Landkreis Nürnberger Land,43.9,2.3
+9575,        Landkreis Neustadt a.d.Aisch-Bad Windsheim,42.7,2.5
+9576,        Landkreis Roth,42.5,2.4
+9577,        Landkreis Weißenburg-Gunzenhausen,43.2,2.4
+9661,        Aschaffenburg,43,2.1
+9662,        Schweinfurt,44.6,2
+9663,        Würzburg,42.1,1.8
+9671,"        Landkreis Aschaffenburg, Landkreis",42.9,2.4
+9672,        Landkreis Bad Kissingen,44.6,2.3
+9673,        Landkreis Rhön-Grabfeld,43.1,2.5
+9674,        Landkreis Haßberge,42.6,2.5
+9675,        Landkreis Kitzingen,42.7,2.4
+9676,        Landkreis Miltenberg,42.5,2.5
+9677,        Landkreis Main-Spessart,43.6,2.4
+9678,"        Landkreis Schweinfurt, Landkreis",43.1,2.5
+9679,"        Landkreis Würzburg, Landkreis",42.6,2.4
+9761,        Augsburg,42.6,1.9
+9762,        Kaufbeuren,44.1,2
+9763,        Kempten (Allgäu),43.6,2
+9764,        Memmingen,43.3,2.1
+9771,        Landkreis Aichach-Friedberg,41.7,2.5
+9772,"        Landkreis Augsburg, Landkreis",42.3,2.4
+9773,        Landkreis Dillingen a.d.Donau,41.7,2.5
+9774,        Landkreis Günzburg,41.6,2.5
+9775,        Landkreis Neu-Ulm,42.1,2.3
+9776,        Landkreis Lindau (Bodensee),43.4,2.2
+9777,        Landkreis Ostallgäu,42.4,2.4
+9778,        Landkreis Unterallgäu,42.4,2.5
+9779,        Landkreis Donau-Ries,41.9,2.5
+9780,        Landkreis Oberallgäu,43.3,2.2
+10041,        Regionalverband Regionalverband Saarbrücken,44.5,2
+10042,        Landkreis Merzig-Wadern,44,2.4
+10043,        Landkreis Neunkirchen,45.4,2.2
+10044,        Landkreis Saarlouis,44.9,2.3
+10045,        Landkreis Saarpfalz-Kreis,45.5,2.2
+10046,        Landkreis St. Wendel,45.1,2.3
+11000,"        Berlin, Stadt",42.3,1.8
+12051,"        Brandenburg an der Havel, Stadt",46.6,1.9
+12052,"        Cottbus, Stadt",45,1.9
+12053,"        Frankfurt (Oder), Stadt",45.4,1.9
+12054,"        Potsdam, Stadt",41.9,1.9
+12060,        Landkreis Barnim,45.1,2.1
+12061,        Landkreis Dahme-Spreewald,45.5,2.2
+12062,        Landkreis Elbe-Elster,47.1,2.2
+12063,        Landkreis Havelland,44.3,2.2
+12064,        Landkreis Märkisch-Oderland,45.4,2.1
+12065,        Landkreis Oberhavel,44.5,2.1
+12066,        Landkreis Oberspreewald-Lausitz,47.4,2
+12067,        Landkreis Oder-Spree,46.3,2.1
+12068,        Landkreis Ostprignitz-Ruppin,45.9,2.1
+12069,        Landkreis Potsdam-Mittelmark,44.3,2.3
+12070,        Landkreis Prignitz,47.6,2
+12071,        Landkreis Spree-Neiße,47.1,2.2
+12072,        Landkreis Teltow-Fläming,44.5,2.1
+12073,        Landkreis Uckermark,46.7,2
+13001,"        Greifswald, Hansestadt",41.1,1.8
+13002,"        Neubrandenburg, Stadt",44.7,1.8
+13003,"        Rostock, Hansestadt",43.9,1.8
+13004,"        Schwerin, Landeshauptstadt",45.5,1.8
+13005,"        Stralsund, Hansestadt",45.5,1.8
+13006,"        Wismar, Hansestadt",45.6,1.9
+13051,        Landkreis Bad Doberan,44.6,2.3
+13052,        Landkreis Demmin,46.1,2.1
+13053,        Landkreis Güstrow,45.4,2.1
+13054,        Landkreis Ludwigslust,44.4,2.2
+13055,        Landkreis Mecklenburg-Strelitz,46.1,2.1
+13056,        Landkreis Müritz,45.5,2.1
+13057,        Landkreis Nordvorpommern,46.1,2.2
+13058,        Landkreis Nordwestmecklenburg,43.8,2.3
+13059,        Landkreis Ostvorpommern,46.1,2.2
+13060,        Landkreis Parchim,46,2.2
+13061,        Landkreis Rügen,46.4,2
+13062,        Landkreis Uecker-Randow,46.6,2.1
+14511,"        Chemnitz, Stadt",46.7,1.8
+14521,        Landkreis Erzgebirgskreis,46.8,2.1
+14522,        Landkreis Mittelsachsen,46.7,2.1
+14523,        Landkreis Vogtlandkreis,47.6,2
+14524,        Landkreis Zwickau,47.3,2
+14612,"        Dresden, Stadt",42.6,1.9
+14625,        Landkreis Bautzen,46.3,2.2
+14626,        Landkreis Görlitz,47.5,2.1
+14627,        Landkreis Meißen,46.4,2.1
+14628,        Landkreis Sächsische Schweiz-Osterzgebirge,46.3,2.1
+14713,"        Leipzig, Stadt",43.5,1.8
+14729,        Landkreis Leipzig,46.2,2.1
+14730,        Landkreis Nordsachsen,46,2.1
+15001,"        Dessau-Roßlau, Stadt",48.1,1.9
+15002,"        Halle (Saale), Stadt",44.3,1.8
+15003,"        Magdeburg, Landeshauptstadt",44.7,1.8
+15081,        Landkreis Altmarkkreis Salzwedel,45.1,2.2
+15082,        Landkreis Anhalt-Bitterfeld,47,2
+15083,        Landkreis Börde,45.1,2.2
+15084,        Landkreis Burgenlandkreis,47.4,2.1
+15085,        Landkreis Harz,47,2
+15086,        Landkreis Jerichower Land,46.2,2.1
+15087,        Landkreis Mansfeld-Südharz,47.8,2.1
+15088,        Landkreis Saalekreis,45.9,2.2
+15089,        Landkreis Salzlandkreis,47.1,2
+15090,        Landkreis Stendal,45.6,2.1
+15091,        Landkreis Wittenberg,47.4,2.1
+16051,"        Erfurt, Stadt",43.5,1.9
+16052,"        Gera, Stadt",47.5,1.8
+16053,"        Jena, Stadt",41.7,1.9
+16054,"        Suhl, Stadt",48.6,1.9
+16055,"        Weimar, Stadt",43,1.9
+16056,"        Eisenach, Stadt",45.9,1.9
+16061,        Landkreis Eichsfeld,43.7,2.5
+16062,        Landkreis Nordhausen,45.9,2.1
+16063,        Landkreis Wartburgkreis,45.6,2.3
+16064,        Landkreis Unstrut-Hainich-Kreis,45.1,2.2
+16065,        Landkreis Kyffhäuserkreis,46.6,2.2
+16066,        Landkreis Schmalkalden-Meiningen,46.2,2.2
+16067,        Landkreis Gotha,45.6,2.1
+16068,        Landkreis Sömmerda,45.2,2.2
+16069,        Landkreis Hildburghausen,45.4,2.4
+16070,        Landkreis Ilm-Kreis,45.6,2.1
+16071,        Landkreis Weimarer Land,44.7,2.2
+16072,        Landkreis Sonneberg,47.1,2.1
+16073,        Landkreis Saalfeld-Rudolstadt,47.6,2.1
+16074,        Landkreis Saale-Holzland-Kreis,45.8,2.2
+16075,        Landkreis Saale-Orla-Kreis,46.3,2.2
+16076,        Landkreis Greiz,47.6,2.1
+16077,        Landkreis Altenburger Land,48.1,2
